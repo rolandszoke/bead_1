@@ -58,6 +58,33 @@ Családtag
 
 ##Implementáció
 
+###Fejlesztői környezet: 
+Cloud9
+
+###Mappa szerkezet:
++ models    ---felhasználó és feladat Waterline Collection
+    - todo.js
+    - user.js
++ node_modules  --- node package
+    - ....
++ test  ---teszt fájl
+    - create.test.js
++ views ---nézetek
+    - login
+        * index.hbs
+        * signup.hbs
+    - partials
+        * menu.hbs
+        * messages.hbs
+    - add.hbs
+    - info.hbs
+    - layout.hbs
+    - list.hbs
+    - todo.hbs
++ index.js
++ package.json
++ router.js
+
 ##Tesztelés
 
 ##Felhasználó dokumentáció
