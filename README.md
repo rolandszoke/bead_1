@@ -56,6 +56,14 @@ Családtag
   + GET /ready/:id todo módosítása
   + GET /inform/:id todo részletezése
 
+###Drótváz
+  
+  ![Drótváz](docs/images/1.png)
+  
+###Adatmodell
+
+![Adatmodell](docs/images/2.png)
+
 ##Implementáció
 
 ###Fejlesztői környezet: 
@@ -85,6 +93,9 @@ Cloud9
 + package.json
 + router.js
 
-##Tesztelés
 
 ##Felhasználó dokumentáció
+
+Futtatáshoz ajánlott konfiguráció: Bármely naprakész böngésző felület
+A program használatához szükséges regisztrálni.
+Minden egyéb instrukciót megtalál az adott felületen.
